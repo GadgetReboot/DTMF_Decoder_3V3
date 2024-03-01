@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name GR_ATTiny_xx4_USB-rescue)(type Legacy)(uri ${KIPRJMOD}/GR_ATTiny_xx4_USB-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name MT8870)(type Legacy)(uri ${KIPRJMOD}/MT8870.lib)(options "")(descr ""))
+)
